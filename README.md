@@ -4,9 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Dima!;" />
 </h1>
 
-<h2 align="center" style="color: #FECC02; background-color: #006AA7">Designer & Developer from Sweden</h2>
+<h2 align="center">Designer & Developer from Sweden</h2>
+
 <br/>
-<div align="center"> 
+<div align="center">
  🀄 Hobby project - **A language app** 
  🌱 I’m currently learning **Python** & **Pycom** 
  </div>
