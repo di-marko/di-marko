@@ -3,9 +3,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Dima!;" />
 </h1>
-
+<br/>
 <h2 align="center">Designer & Developer from Sweden &#127480;&#127466;</h2>
-
 <br/>
 
 <div align="center">
