@@ -3,16 +3,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Dima!;" />
 </h1>
-<br/>
-<h2 align="center">Designer & Developer from Sweden &#127480;&#127466;</h2>
-<br/>
 
-<div align="center">
- 
- 🀄 Hobby project - **A language app**
- 
- 🌱 I’m currently learning **Python** & **Pycom**
- 
+<h2 align="center" style="color: #FECC02; background-color: #006AA7">Designer & Developer from Sweden</h2>
+<br/>
+<div align="center"> 
+ 🀄 Hobby project - **A language app** 
+ 🌱 I’m currently learning **Python** & **Pycom** 
  </div>
  
 <div align="center"> 
@@ -26,7 +22,6 @@
      <img src="https://img.shields.io/badge/Behance-0258ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank" /> 
   </a>
 </div>
-
 
  <br/>
 <h3 align="center">⚒️ Dev Tools ⚒️</h3>
@@ -47,10 +42,6 @@
 </div>
 
 <br/>
-
-<hr/>
-
-<br/>
-<h1>
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Feel+free+to+reach+out+to+me!" alt="Typing SVG" />
 </h1>
