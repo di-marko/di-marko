@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Dima!;" />
 </h1>
 
-<h3 align="center">Designer & Developer from Sweden &#127480;&#127466;</h3>
+<h2 align="center">Designer & Developer from Sweden &#127480;&#127466;</h2>
 
 <br/>
 
@@ -28,24 +28,21 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Dev Tools ⚒️</h2>
-<br/>
+
+ <br/>
+<h3 align="center">⚒️ Dev Tools ⚒️</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next" />
     <img src="https://skillicons.dev/icons?i=python,sass,styledcomponents,mongodb,vscode" />
 </div>
-
-<h2 align="center">🎨 Designer Tools 🎨</h2>
 <br/>
+<h3 align="center">🎨 Designer Tools 🎨</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" /><br>
     <img src="https://skillicons.dev/icons?i=blender,unreal,sketchup,autocad" />
 </div>
-
-<h2 align="center">👔 Mgnt Tools 👔</h2>
 <br/>
+<h3 align="center">👔 Mgnt Tools 👔</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,gitlab,git" /><br>
 </div>
@@ -56,6 +53,5 @@
 
 <br/>
 <h1>
-    Feel free to reach out!
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Feel+free+to+reach+out+to+me!" alt="Typing SVG" />
 </h1>
-
