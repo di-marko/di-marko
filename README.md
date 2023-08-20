@@ -8,7 +8,9 @@
 
 <br/>
 <div align="center">
+    
  🀄 Hobby project - **A language app** 
+    
  🌱 I’m currently learning **Python** & **Pycom** 
  </div>
  
