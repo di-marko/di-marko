@@ -56,6 +56,6 @@
 
 <br/>
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Feel+free+to+reach+out+to+me!" alt="Typing SVG" />
+    Feel free to reach out!
 </h1>
 
