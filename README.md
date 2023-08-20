@@ -10,9 +10,10 @@
 <div align="center">
     
  🀄 Hobby project - **A language app** 
-    
+<br/>
  🌱 I’m currently learning **Python** & **Pycom** 
  </div>
+ <br/>
  
 <div align="center"> 
   <a href="https://linkedin.com/in/dimamarkelov" target="_blank">
