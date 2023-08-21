@@ -31,7 +31,7 @@
 <h3 align="center">⚒️ Dev Tools ⚒️</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next" />
-    <img src="https://skillicons.dev/icons?i=python,sass,styledcomponents,mongodb,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,sass,styledcomponents,mongodb,nodejs,vscode" />
 </div>
 <br/>
 <h3 align="center">🎨 Designer Tools 🎨</h3>
