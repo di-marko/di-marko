@@ -9,7 +9,7 @@
 <br/>
 <div align="center">
     
- 🀄 Hobby project - **A language app** 
+ 🀄 Hobby project - **Game** & **A language app** 
 <br/>
  🌱 I’m currently learning **Python** & **Pycom** 
  </div>
