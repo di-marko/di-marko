@@ -11,8 +11,9 @@
     
  🀄 Hobby project - **Game** & **A language app** 
 <br/>
- 🌱 I’m currently learning **Python** & **Pycom** 
- </div>
+<br/>
+ 🌱 I’m currently learning <div align="center"><img src="https://skillicons.dev/icons?i=python" /></div> 
+</div>
  <br/>
  
 <div align="center"> 
