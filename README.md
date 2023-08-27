@@ -9,10 +9,10 @@
 <br/>
 <div align="center">
     
- 🀄 Hobby project - **Game** & **A language app** 
+ 🀄 Hobby project - **Game** 
 <br/>
 <br/>
- 🌱 I’m currently learning <div align="center"><img src="https://skillicons.dev/icons?i=python" /></div> 
+ 🌱 I’m currently learning <div align="center"><img src="https://skillicons.dev/icons?i=python,cs" /></div> 
 </div>
  <br/>
  
