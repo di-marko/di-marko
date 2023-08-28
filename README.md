@@ -23,15 +23,15 @@
 <br/>
 <div align="center">
     
- 🀄 Hobby project - **Game** 
 <br/>
-<br/>
- 🌱 I’m currently learning <div align="center"><img src="https://skillicons.dev/icons?i=python,cs" /></div> 
-</div>
- <br/>
- 
 
- <br/>
+<h3>🌱 I’m currently learning</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cs" />
+</div>
+
+<br/> 
+
 <h3 align="center">⚒️ Dev Tools ⚒️</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next" />
