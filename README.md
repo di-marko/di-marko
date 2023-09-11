@@ -27,7 +27,7 @@
 
 <h3>🌱 I’m currently learning</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cs" />
+    <img src="https://skillicons.dev/icons?i=python" />
 </div>
 
 <br/> 
