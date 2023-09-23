@@ -1,9 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=di-marko.di-marko" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Dima!;" />
-</h1>
-
 <div align="center">
     <h3>Designer & Developer from Sweden</h3>
     <div align="center"> 
@@ -20,33 +16,16 @@
 </div>
 <h1></h1>
 
-<br/>
-<div align="center">
-    
-<br/>
-
-<h3>🌱 I’m currently learning</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python" />
-</div>
-
 <br/> 
 
 <h3 align="center">⚒️ Dev Tools ⚒️</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next" />
-    <img src="https://skillicons.dev/icons?i=python,sass,styledcomponents,mongodb,nodejs,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,python,sass,styledcomponents,mongodb,nodejs,vscode,github,gitlab,git" />
 </div>
 <br/>
 <h3 align="center">🎨 Designer Tools 🎨</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" /><br>
-    <img src="https://skillicons.dev/icons?i=blender,unreal,sketchup,autocad" />
-</div>
-<br/>
-<h3 align="center">👔 Mgnt Tools 👔</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,git" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,unreal,sketchup,autocad" /><br>
 </div>
 
 <br/>
