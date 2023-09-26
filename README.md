@@ -13,18 +13,6 @@
 </div>
 <h1></h1>
 
-<br/> 
-
-<h3 align="center">⚒️ Dev Tools ⚒️</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,python,sass,styledcomponents,mongodb,nodejs,vscode,github,gitlab,git" />
-</div>
-<br/>
-<h3 align="center">🎨 Designer Tools 🎨</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,unreal,sketchup,autocad" /><br>
-</div>
-
 <br/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=Feel+free+to+reach+out+to+me!" alt="Typing SVG" />
